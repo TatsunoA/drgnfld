@@ -1,4 +1,4 @@
-# processGL-pi
+# processGL-pi (Private)
 
 You can easily display filtered videos using processing, glsl and raspberry pi.
 
